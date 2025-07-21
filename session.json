@@ -1,0 +1,247 @@
+{
+  "cookies": [
+    {
+      "name": "api_uid",
+      "value": "CmwoOGh+n1WKKgBUTVWvAg==",
+      "domain": ".temu.com",
+      "path": "/",
+      "expires": 1784664789.646273,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "region",
+      "value": "45",
+      "domain": "www.temu.com",
+      "path": "/",
+      "expires": 1768680789.924386,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "language",
+      "value": "en",
+      "domain": "www.temu.com",
+      "path": "/",
+      "expires": 1768680789.924488,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "currency",
+      "value": "COP",
+      "domain": "www.temu.com",
+      "path": "/",
+      "expires": 1768680789.924503,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "timezone",
+      "value": "America%2FBogota",
+      "domain": "www.temu.com",
+      "path": "/",
+      "expires": 1784664886.778594,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "webp",
+      "value": "1",
+      "domain": "www.temu.com",
+      "path": "/",
+      "expires": 1755720886.790215,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_nano_fp",
+      "value": "XpmyXqgxl0mbXpdon9_MXD5ztviJU7rYGaIerCWo",
+      "domain": "www.temu.com",
+      "path": "/",
+      "expires": 1784664791,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "verifyAuthToken",
+      "value": "V7XfpVt_tKUr8RULxmWaeA6b76be6585c47cbfa",
+      "domain": "www.temu.com",
+      "path": "/",
+      "expires": 1753215197.299002,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ttc",
+      "value": "3.0DYFP0nPeQjT.1784664797",
+      "domain": "www.temu.com",
+      "path": "/",
+      "expires": 1784664797.416541,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_bee",
+      "value": "KPE01w3NddoQ2GgHT0OgRrHCgJZi4gZk",
+      "domain": ".temu.com",
+      "path": "/",
+      "expires": 1784664891.047992,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "njrpl",
+      "value": "KPE01w3NddoQ2GgHT0OgRrHCgJZi4gZk",
+      "domain": ".temu.com",
+      "path": "/",
+      "expires": 1784664891.048144,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dilx",
+      "value": "uuIEGjBR-hRLPAoIOgfsv",
+      "domain": ".temu.com",
+      "path": "/",
+      "expires": 1784664891.048163,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "hfsc",
+      "value": "L3yPe4gy4Tnx0JTMfA==",
+      "domain": ".temu.com",
+      "path": "/",
+      "expires": 1784664891.048179,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hal_tag",
+      "value": "AAOxC8K+hkG2yn63MI2urKD6kdS6e4J47vibmfiwLKGiFgoLACGJGRuvfUmqoHiS2g==",
+      "domain": ".www.temu.com",
+      "path": "/",
+      "expires": 1761768861.931436,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AccessToken",
+      "value": "LT4FYKQ4TUBB2PXX65MI3CTDQXS5FQLQGIUT435QHGP6LIV4GOYA01102d0c0231",
+      "domain": ".temu.com",
+      "path": "/",
+      "expires": 1784664861.931548,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_uin",
+      "value": "BCWLXKCYVS4SNMWNWN442JIFDDK2EC6U6SA7IVFH",
+      "domain": ".temu.com",
+      "path": "/",
+      "expires": 1784664861.931573,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "isLogin",
+      "value": "1753128861881",
+      "domain": ".temu.com",
+      "path": "/",
+      "expires": 1784664861.931585,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "E9nbgAFxRkYOB1DY50FE.d1KcoUWMvk.R7.NFHf03Us-1753128890-1.0.1.1-045jQqTEKulcA87KJBuz4Pi0nZmqaPLdH.H3JGrtVbz0ZnsiJXZImN_rINIUWP1.qct1yJJVJmFq5O3Pm.AJUkuVskg6ybcV57qCzjrUhD4",
+      "domain": ".temu.com",
+      "path": "/",
+      "expires": 1753130690.298877,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.temu.com",
+      "localStorage": [
+        {
+          "name": "event_card_time",
+          "value": "[1753128887169,1]"
+        },
+        {
+          "name": "i18nextLng",
+          "value": "en"
+        },
+        {
+          "name": "h_dkrjl",
+          "value": "uuIEGjBR-hRLPAoIOgfsv"
+        },
+        {
+          "name": "login_verify_result",
+          "value": "1"
+        },
+        {
+          "name": "layer_ack_map",
+          "value": "{\"current\":{},\"next\":{}}"
+        },
+        {
+          "name": "search_view_storage_A10015",
+          "value": "{\"us\":[]}"
+        },
+        {
+          "name": "h_wjrpl",
+          "value": "KPE01w3NddoQ2GgHT0OgRrHCgJZi4gZk"
+        },
+        {
+          "name": "layout_tab",
+          "value": "[{\"page_sn\":10005,\"time\":1753128886876},{\"page_sn\":10013,\"time\":1753128792807}]"
+        },
+        {
+          "name": "_nano_fp",
+          "value": "XpmyXqgxl0mbXpdon9_MXD5ztviJU7rYGaIerCWo"
+        },
+        {
+          "name": "renewal_token_time",
+          "value": "1753146887000"
+        },
+        {
+          "name": "temu_monitor_build_version",
+          "value": "{\"/w/login.html\":3438340765,\"/bgn_verification.html\":3463936042,\"/w/index.html\":1599634533}"
+        },
+        {
+          "name": "becDeviceInfoRecorded",
+          "value": "1"
+        },
+        {
+          "name": "VerifyAuthToken",
+          "value": "V7XfpVt_tKUr8RULxmWaeA6b76be6585c47cbfa"
+        },
+        {
+          "name": "sc_g_n",
+          "value": "3"
+        }
+      ]
+    }
+  ]
+}
