@@ -2,8 +2,10 @@
   "name": "webscrapingautomatic",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {},
+  "main": "login.ts",
+  "scripts": {
+    "login": "ts-node login.ts"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
