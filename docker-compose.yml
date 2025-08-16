@@ -1,0 +1,11 @@
+services:
+  webscraping:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/webscrapingautomatic
+    working_dir: /webscrapingautomatic
+    command: sleep infinity
+    ports:
+      - "3000:3000"

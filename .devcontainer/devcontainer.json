@@ -1,38 +1,22 @@
-// {
-//   "name": "myFirstDevContainer",
-// 	"dockerComposeFile": "compose.yml",
-// 	"service": "app",
-// 	"workspaceFolder": "/workspaces",
-//   "features": {
-// 		"ghcr.io/devcontainers/features/github-cli:1": {}
-// 	},
-//   "customizations": {
-//     "vscode": {
-//       "settings": {
-// 				"workbench.colorTheme": "Visual Studio Dark"
-// 			},
-//       "extensions": ["formulahendry.auto-complete-tag", "formulahendry.auto-rename-tag", "streetsidesoftware.code-spell-checker", "chrisvltn.log-wrapper-for-vscode"]
-//     }
-//   },
-//   "forwardPorts": [3000]
-
-
-// }
-
 {
-  "name": "WebScraping DevContainer",
-  "dockerComposeFile": "compose.yml",
-  "service": "app",
-  "workspaceFolder": "/app",
-  "features": {
-    "ghcr.io/devcontainers/features/github-cli:1": {}
+  "name": "webscraping",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "webscraping",
+  "workspaceFolder": "/webscrapingautomatic",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "workbench.colorTheme": "Visual Studio Dark"
+      },
+      "extensions": [
+        "formulahendry.auto-complete-tag",
+        "formulahendry.auto-rename-tag",
+        "streetsidesoftware.code-spell-checker",
+        "chrisvltn.log-wrapper-for-vscode"
+      ]
+    }
   },
-  "postCreateCommand": "npm ci",
-  "forwardPorts": [3000],
-  "settings": {
-    "terminal.integrated.defaultProfile.linux": "sh"
-  },
-  "mounts": [
-    "source=node_modules,target=/app/node_modules,type=volume"
-  ]
+  "forwardPorts": [3000]
+
 }
