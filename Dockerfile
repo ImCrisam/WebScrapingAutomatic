@@ -1,4 +1,4 @@
-FROM ubuntu:noble
+FROM node:24
 
 WORKDIR /webscrapingautomatic
 
@@ -16,6 +16,8 @@ RUN apt-get update && apt-get install -y \
     npm \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
+
+RUN npm install --save-dev tsx
 
 # Instalar Playwright y sus dependencias
 RUN npm install -g playwright
